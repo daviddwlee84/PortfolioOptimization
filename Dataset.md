@@ -42,8 +42,18 @@ df.to_csv("data_ml.csv")
 
 > THe most mainstream anomalies
 
-- [Production of U.S. Rm-Rf, SMB, and HML in the Fama-French Data Library by Eugene F. Fama, Kenneth R. French :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4629613)
 - [Kenneth R. French - Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+  - [Description of Fama/French 5 Factors (2x3)](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_5_factors_2x3.html)
+    - [csv](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_CSV.zip)
+
+Paper
+
+- [A five-factor asset pricing model - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0304405X14002323)
+- [Production of U.S. Rm-Rf, SMB, and HML in the Fama-French Data Library by Eugene F. Fama, Kenneth R. French :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4629613)
+
+Article
+
+- [Fama French Five Factors](https://www.quantconnect.com/research/15262/fama-french-five-factors/p1)
 
 ## AQR Data Sets
 
