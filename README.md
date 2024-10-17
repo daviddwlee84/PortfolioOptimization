@@ -40,3 +40,10 @@
   - [shokru/mlfactor.github.io: Website dedicated to a book on machine learning for factor investing](https://github.com/shokru/mlfactor.github.io?tab=readme-ov-file)
     - [Dataset](https://github.com/shokru/mlfactor.github.io/tree/master/material)
   - [Chapter 18 Python notebooks | Machine Learning for Factor Investing](https://www.mlfactor.com/python.html)
+
+### Data
+
+- [Market Data Home](https://finra-markets.morningstar.com/MarketData/Default.jsp?sdkVersion=2.62.9)
+  - 10-years U.S. Treasury Benchmarks => Risk Free Return $R_f$
+- [Target Corporation (TGT) Stock Price, News, Quote & History - Yahoo Finance](https://finance.yahoo.com/quote/TGT/?p=TGT&.tsrc=fin-srch)
+  - 5-Year Monthly => Beta

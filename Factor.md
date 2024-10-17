@@ -33,10 +33,13 @@ Add 2 more factors to CAPM (capital asset pricing model)
 
 [![3 factor model](https://cdn.corporatefinanceinstitute.com/assets/fama-french-three-factor-model03-1024x115.png)](https://corporatefinanceinstitute.com/resources/valuation/fama-french-three-factor-model/)
 
-
 ### Fama-French Five Factor, April 2015
 
 - [A five-factor asset pricing model - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0304405X14002323)
+
+Tutorial
+
+- [How to Calculate and Interpret the Fama and French and Carhart Multifactor Models | StableBread](https://stablebread.com/how-to-calculate-and-interpret-the-fama-and-french-and-carhart-multifactor-models/)
 
 ### (Alpha 101) WorldQuant 101 Formulaic Alphas, Jan 2016
 
