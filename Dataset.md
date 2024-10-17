@@ -40,11 +40,15 @@ df.to_csv("data_ml.csv")
 
 ## Fama-French Data Library
 
-> THe most mainstream anomalies
+> The most mainstream anomalies
+
+Data Source
 
 - [Kenneth R. French - Data Library](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
   - [Description of Fama/French 5 Factors (2x3)](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/Data_Library/f-f_5_factors_2x3.html)
     - [csv](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_CSV.zip)
+- [Fama-French Data (Ken French’s Data Library) — pandas-datareader 0.10.0 documentation](https://pandas-datareader.readthedocs.io/en/latest/readers/famafrench.html) ([another link](https://pydata.github.io/pandas-datareader/devel/readers/famafrench.html))
+  - [Rolling Regression - statsmodels 0.14.4](https://www.statsmodels.org/stable/examples/notebooks/generated/rolling_ls.html) (example)
 
 Paper
 
@@ -59,8 +63,22 @@ Article
 
 - [Data Sets](https://www.aqr.com/Insights/Datasets)
 
+## AlternativeData
+
+- [Database - AlternativeData](https://alternativedata.org/data-providers/)
+
 ---
 
 ## Resources
 
 - [ofajardo/pyreadr: Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.](https://github.com/ofajardo/pyreadr)
+
+## Financial Data Providers
+
+- Bloomberg
+- Thomson-Reuters
+- Datastream
+- CRSP
+- Morningstar
+- Capital IQ
+- Ravenpack

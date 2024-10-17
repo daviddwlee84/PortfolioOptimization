@@ -1,6 +1,6 @@
-# Portfolio Optimization and Factor Investing
+# Portfolio Management and Optimization
 
-1. Factor Investing => Build Portfolio
+1. Factor Investing => Build Portfolio (Management)
 2. Portfolio Optimization (Risk Management...)
 
 ## Resources
