@@ -1,2 +1,16 @@
+jupyterlab
+notebook
+
 pandas
 pyreadr
+
+yfinance
+quantstats
+pyportfolioopt
+
+# Qlib
+pyqlib
+
+# vectorbt
+# If you have VectorBT PRO Subscription
+# vectorbtpro[base] @ git+ssh://git@github.com/polakowo/vectorbt.pro.git

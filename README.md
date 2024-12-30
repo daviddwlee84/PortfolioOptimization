@@ -3,6 +3,28 @@
 1. Factor Investing => Build Portfolio (Management)
 2. Portfolio Optimization (Risk Management...)
 
+## Getting Started
+
+```bash
+# Use conda
+# conda create --prefix .venv python=3.9
+# conda activate ./.venv
+
+# Use venv (more lightweight)
+# (Using Python 3.12)
+python -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
+jupyter notebook
+```
+
+```bash
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -U "vectorbtpro[base] @ git+ssh://git@github.com/polakowo/vectorbt.pro.git" 
+# During installation: fatal error: 'H5public.h' file not found
+brew install hdf5
+```
+
 ## Resources
 
 ### Library
@@ -38,6 +60,7 @@ Portfolio Performance Statistics Summary
 - [cvx_short_course/book/docs/applications/notebooks/portfolio_optimization.ipynb at master · cvxgrp/cvx_short_course](https://github.com/cvxgrp/cvx_short_course/blob/master/book/docs/applications/notebooks/portfolio_optimization.ipynb)
   - [Google Colab](https://colab.research.google.com/github/cvxgrp/cvx_short_course/blob/master/book/docs/applications/notebooks/portfolio_optimization.ipynb)
   - [cvxgrp/cvx_short_course: Materials for a short course on convex optimization.](https://github.com/cvxgrp/cvx_short_course)
+- [🤑 Data Science for Financial Markets 📈💰](https://www.kaggle.com/code/lusfernandotorres/data-science-for-financial-markets#optimizing-portfolio)
 
 ### Paper and Thesis
 
