@@ -7,7 +7,11 @@ pandas_datareader
 
 yfinance
 quantstats
+
+# Portfolio Optimization
+cvxpy
 pyportfolioopt
+cvxportfolio
 
 # Qlib
 pyqlib

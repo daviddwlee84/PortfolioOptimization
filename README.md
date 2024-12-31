@@ -29,24 +29,13 @@ brew install hdf5
 
 ### Library
 
-- [cvxgrp/cvxportfolio: Portfolio optimization and back-testing.](https://github.com/cvxgrp/cvxportfolio)
-  - [Cvxportfolio 1.3.2 documentation](https://www.cvxportfolio.com/en/stable/)
-- [cvxpy/cvxpy: A Python-embedded modeling language for convex optimization problems.](https://github.com/cvxpy/cvxpy)
-  - [Examples — CVXPY 1.5 documentation](https://www.cvxpy.org/examples/)
-- [robertmartin8/PyPortfolioOpt: Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity](https://github.com/robertmartin8/PyPortfolioOpt)
-  - [Installation — PyPortfolioOpt 1.5.4 documentation](https://pyportfolioopt.readthedocs.io/en/latest/)
-  - [Portfolio Optimization: The Markowitz Mean-Variance Model | by Luís Fernando Torres | LatinXinAI | Medium](https://medium.com/latinxinai/portfolio-optimization-the-markowitz-mean-variance-model-c07a80056b8a)
-- [The Leader in Decision Intelligence Technology - Gurobi Optimization](https://www.gurobi.com/)
-  - [Portfolio Optimization with Gurobi - Gurobi Optimization](https://www.gurobi.com/jupyter_models/portfolio-selection-optimization/)
-  - [austingriffith94/simple_portfolio_optimization: A simple portfolio optimization using the Gurobi optimization package in Python.](https://github.com/austingriffith94/simple_portfolio_optimization)
-  - [portfolio.py - Gurobi Optimization](https://www.gurobi.com/documentation/current/examples/portfolio_py.html)
-  - [Portfolio Optimization with Gurobi - Gurobi Optimization](https://www.gurobi.com/jupyter_models/portfolio-selection-optimization/)
+Portfolio Performance Statistics Summary and Backtesting
 
-Portfolio Performance Statistics Summary
-
-- [ranaroussi/quantstats: Portfolio analytics for quants, written in Python](https://github.com/ranaroussi/quantstats) - Better for daily or lower frequency portfolio returns summary
+- [ranaroussi/quantstats: Portfolio analytics for quants, written in Python](https://github.com/ranaroussi/quantstats) - Better for daily or lower frequency portfolio returns summary (kind of buggy)
 - [polakowo/vectorbt: Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.](https://github.com/polakowo/vectorbt) - Better to analysis intraday or multiple instruments trading details
   - [qs_adapter - vectorbt](https://vectorbt.dev/api/returns/qs_adapter/) - using VectorBT with QuantStats
+- [VectorBT PRO](https://vectorbt.pro/) ([polakowo/vectorbt.pro](https://github.com/polakowo/vectorbt.pro)) - Introduce portfolio related feature then open-source VectorBT
+  - [Portfolio - VectorBT PRO](https://vectorbt.pro/features/portfolio/)
 - [stefan-jansen/pyfolio-reloaded: Portfolio and risk analytics in Python](https://github.com/stefan-jansen/pyfolio-reloaded)
   - [pyfolio — pyfolio 0.9.3+28.g3dcf744 documentation](https://pyfolio.ml4trading.io/)
     - [Intro — pyfolio 0.9.3+28.g3dcf744 documentation](https://pyfolio.ml4trading.io/notebooks/single_stock_example.html#Download-daily-stock-prices-using-yfinance)
@@ -61,6 +50,7 @@ Portfolio Performance Statistics Summary
   - [Google Colab](https://colab.research.google.com/github/cvxgrp/cvx_short_course/blob/master/book/docs/applications/notebooks/portfolio_optimization.ipynb)
   - [cvxgrp/cvx_short_course: Materials for a short course on convex optimization.](https://github.com/cvxgrp/cvx_short_course)
 - [🤑 Data Science for Financial Markets 📈💰](https://www.kaggle.com/code/lusfernandotorres/data-science-for-financial-markets#optimizing-portfolio)
+- [AnnaSkarpalezou/Portfolio-Optimization-using-Machine-Learning: This repository is the result of our work for the course CSCI-SHU 360 Machine Learning](https://github.com/AnnaSkarpalezou/Portfolio-Optimization-using-Machine-Learning) (a super naive project, the Sharpe ratio is super low)
 
 ### Paper and Thesis
 
@@ -91,3 +81,8 @@ Portfolio Performance Statistics Summary
   - 10-years U.S. Treasury Benchmarks => Risk Free Return $R_f$
 - [Target Corporation (TGT) Stock Price, News, Quote & History - Yahoo Finance](https://finance.yahoo.com/quote/TGT/?p=TGT&.tsrc=fin-srch)
   - 5-Year Monthly => Beta
+
+### Video
+
+- [Deep portfolio: using neural networks for portfolio construction - Anant Gupta - YouTube](https://www.youtube.com/watch?v=7LOb9kk6U_M) - Basic knowledge of what Portfolio is
+- [Python - Finance - Portfolio Optimization - YouTube](https://www.youtube.com/playlist?list=PLcFcktZ0wnNnqefRpFMS1k9_VlhVw7bzc)
