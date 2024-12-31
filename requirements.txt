@@ -3,6 +3,7 @@ notebook
 
 pandas
 pyreadr
+pandas_datareader
 
 yfinance
 quantstats
